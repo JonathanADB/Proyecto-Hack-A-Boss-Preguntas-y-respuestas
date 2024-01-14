@@ -1,0 +1,8 @@
+El siguiente proyecto lo hemos realizado 
+Jhonny Armirotti: https://github.com/zargatanaz
+Jonathan Dominguez: https://github.com/JonathanADB
+
+El proyecto es básicamente un juego de preguntas y respuestas, que está conformado por 50 preguntas y cada pregunta 4 posibles respuestas. Un boton de ayuda y la posibilidad de equivocarse 7 veses antes de que el juego se reinicie.
+
+
+
